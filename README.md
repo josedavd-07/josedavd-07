@@ -1,3 +1,7 @@
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Josedavd .Net</a> 👋</h1>
+</div>
+
 Hola a todos  bienvenidos mi nombre es Jose David Carranza Angarita. Soy Estudiante de  Ingeniería de Sistemas, Apasionado por la Tecnología y la Innovación. 😀
 
 Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musica y lo que mas amo en la vida es programar.
@@ -5,6 +9,13 @@ Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musi
 ¡si puedes imaginarlo puedes programrlo!
 
 "No programes para solucionar problemas, programa para crear soluciones"
+
+## Sobre mi
+
+⭐ Con capacidad de adaptabilidad y trabajo en equipo.
+⭐ Responsable.
+⭐ Team Software Developer.
+<br>
 
 
 ### ⚙️  GitHub Analytics
