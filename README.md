@@ -12,16 +12,10 @@ Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musi
 
 ## Sobre mi
 
-- ⭐Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
-- ⭐Responsable.⭐
-- ⭐C# Developer.⭐
+- Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
+- Responsable.⭐
+- C# Developer.⭐
   <br>
-
-## Sobre mi
-
-Con capacidad de adaptabilidad y trabajo en equipo. ⭐Responsable. ⭐
-Team Software Developer. ⭐
-<br>
 
 
 ### ⚙️  GitHub Analytics
