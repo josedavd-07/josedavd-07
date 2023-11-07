@@ -18,15 +18,16 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 
 ## Tecnologías 🛠️
 
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ⭐
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ⭐
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ⭐
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ⭐
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ⭐
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white) ⭐
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ⭐
-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ⭐
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ⭐
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) 
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) 
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) 
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
   <br>
 ### ⚙️  GitHub Analytics
 
@@ -36,9 +37,6 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
 
 
 
@@ -66,11 +64,18 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 
 ## Tecnologías 🛠️
 
- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ⭐  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ⭐
- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ⭐ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ⭐
- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ⭐ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white) ⭐
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ⭐
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ⭐ ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ⭐
+!C# 
+!Kotlin 
+!HTML5 
+!CSS3 
+!Visual Studio 
+!Visual Studio Code 
+!Git 
+!GitHub 
+!Android Studio 
+!Python 
+  <br>
+</div>
 
 ### ⚙️  GitHub Analytics
 
