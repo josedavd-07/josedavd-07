@@ -28,10 +28,12 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+
 ### ⚙️  GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/josedavd-07">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josedavd-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josedavd-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
