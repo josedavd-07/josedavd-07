@@ -28,6 +28,12 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+# Hola, soy Jose 👋
+
+!GitHub Repos
+
+Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado...
+
 
 ### ⚙️  GitHub Analytics
 
