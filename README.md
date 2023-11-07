@@ -1,6 +1,3 @@
-Por supuesto, puedo ayudarte a mejorar tu README. Aquí tienes una versión con algunos estilos adicionales y emojis para representar las tecnologías que manejas:
-
-```markdown
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.tiktok.com/@josedavd_07">Josedavd .Net</a> 👋</h1>
 </div>
@@ -39,5 +36,3 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-```
-Estos escudos (badges) son proporcionados por [Shields.io](https://shields.io/), y los he personalizado para que coincidan con las tecnologías que has mencionado. Puedes personalizar aún más estos escudos visitando su sitio web. Asegúrate de tener los derechos para usar estas imágenes.
