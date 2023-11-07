@@ -1,24 +1,36 @@
+Por supuesto, puedo ayudarte a mejorar tu README. Aquí tienes una versión con algunos estilos adicionales y emojis para representar las tecnologías que manejas:
+
+```markdown
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.tiktok.com/@josedavd_07">Josedavd .Net</a> 👋</h1>
 </div>
 
-Hola a todos  bienvenidos mi nombre es Jose David Carranza Angarita. Soy Estudiante de  Ingeniería de Sistemas, Apasionado por la Tecnología y la Innovación. 😀
+Hola a todos, bienvenidos. Mi nombre es José David Carranza Angarita. Soy estudiante de Ingeniería de Sistemas, apasionado por la Tecnología y la Innovación. 😀
 
-Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musica y lo que mas amo en la vida es programar.
+Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la música y lo que más amo en la vida es programar.
 
-¡si puedes imaginarlo puedes programrlo!
+¡Si puedes imaginarlo, puedes programarlo!
 
 "No programes para solucionar problemas, programa para crear soluciones"
 
-## Sobre mi
+## Sobre mí 🚀
 
 - Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
 - Responsable.⭐
-- C# Developer.⭐
-- Kotlin developer ⭐ 
   <br>
 
+## Tecnologías 🛠️
 
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ⭐
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ⭐
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ⭐
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ⭐
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ⭐
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white) ⭐
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ⭐
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ⭐
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ⭐
+  <br>
 ### ⚙️  GitHub Analytics
 
 <p align="center">
@@ -27,3 +39,5 @@ Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+```
+Estos escudos (badges) son proporcionados por [Shields.io](https://shields.io/), y los he personalizado para que coincidan con las tecnologías que has mencionado. Puedes personalizar aún más estos escudos visitando su sitio web. Asegúrate de tener los derechos para usar estas imágenes.
