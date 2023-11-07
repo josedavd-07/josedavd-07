@@ -15,6 +15,7 @@ Me gusta estar en constante aprendizaje y capacitarme cada dia, me gusta la musi
 - Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
 - Responsable.⭐
 - C# Developer.⭐
+- Kotlin developer ⭐ 
   <br>
 
 
