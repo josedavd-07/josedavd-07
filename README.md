@@ -33,6 +33,7 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
 
 ### ⚙️  GitHub Analytics
 
