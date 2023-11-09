@@ -49,6 +49,52 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 
 
 
+<div align="center" style="background-image: url('https://www.bing.com/images/create/van-gogh27s-sky/654c3cb7f3ca4b708aa89c17092dfbc7?id=m9MZd6qdE%2fco3JjUU8ZU6w%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC'); background-size: cover; padding: 50px;">
+
+<h1 align="center"> Hola, soy <a href="https://www.tiktok.com/@josedavd_07">Josedavd .Net</a> 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/josedavd-07/Laboratorio-Virtual-1-Fundamentos-de-Programacion./assets/134252125/f61248ce-e169-43ba-bda3-921013d15d2b" width="100" heigth="100" />
+  <img src="https://github.com/josedavd-07/Laboratorio-Virtual-1-Fundamentos-de-Programacion./assets/134252125/586432e7-6b64-4694-92ff-ecf28bc0c69b" width="100" heigth="100" /> 
+  <img src="https://github.com/josedavd-07/Laboratorio-Virtual-1-Fundamentos-de-Programacion./assets/134252125/4ca9754d-e0f7-43a6-9a7b-f5e2e43b1388" width="100" heigth="100" />  
+</p>
+
+¡Hola a todos, bienvenidos! Mi nombre es José David Carranza Angarita. Soy estudiante de Ingeniería de Sistemas, apasionado por la Tecnología y la Innovación. 😀
+
+Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la música y lo que más amo en la vida es programar.
+
+¡Si puedes imaginarlo, puedes programarlo!
+
+"No programes para solucionar problemas, programa para crear soluciones"
+
+## Sobre mí 🚀
+
+- Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
+- Responsable.⭐
+
+## Tecnologías 🛠️
+
+- !C# 
+- !Kotlin 
+- !HTML5 
+- !CSS3 
+- !Visual Studio 
+- !Visual Studio Code 
+- !Git
+- !GitHub 
+- !Android Studio 
+- !Python
+
+### ⚙️  GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/josedavd-07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josedavd-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+</div>
 
 
 
