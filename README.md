@@ -1,5 +1,4 @@
-<body align="center" style="background-image: url('https://www.bing.com/images/create/van-gogh27s-sky/654c3cb7f3ca4b708aa89c17092dfbc7?id=m9MZd6qdE%2fco3JjUU8ZU6w%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC'); background-size: cover;">
-  
+![Background Image] (https://www.bing.com/images/create/van-gogh27s-sky/654c3cb7f3ca4b708aa89c17092dfbc7?id=m9MZd6qdE%2fco3JjUU8ZU6w%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
 <div align="center">
 <h1 align="center"> Hola, soy <a href="https://www.tiktok.com/@josedavd_07">Josedavd .Net</a> 👋</h1>
 </div>
