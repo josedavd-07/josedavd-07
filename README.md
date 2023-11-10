@@ -34,6 +34,9 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+https://github.com/josedavd-07/Practicando-C-sharp.git
+
+
 ### ⚙️  GitHub Analytics
 
 <p align="center">
