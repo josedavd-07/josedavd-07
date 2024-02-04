@@ -1,6 +1,7 @@
 <div align="center">
     <h1 align="center">Hola, soy<a href="https://www.tiktok.com/@josedavd_07"> Josedavd .Net</a> 👋</h1>
-    <h2 border:radius><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/99221e0a-0d5b-42cd-a1a7-f260a3e7fb7a" /></h2>
+    <h2><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/99221e0a-0d5b-42cd-a1a7-f260a3e7fb7a" /></h2>
+    <h2><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/b7357ac2-2f80-4fc3-9c8d-b896ba93bc51" /></h2>
 </div>
 
 <p align="center">
