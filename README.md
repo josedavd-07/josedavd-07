@@ -1,22 +1,3 @@
-<div align="center">
-    <h1 align="center">Hola, soy<a href="https://www.tiktok.com/@josedavd_07"> Josedavd .Net</a> 👋</h1>
-    <table>
-        <tr>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/99221e0a-0d5b-42cd-a1a7-f260a3e7fb7a" /></td>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/b7357ac2-2f80-4fc3-9c8d-b896ba93bc51" /></td>
-        </tr>
-    </table>
-</div>
-
-<div align="center">
-    <h1 align="center">Hola, soy<a href="https://www.tiktok.com/@josedavd_07"> Josedavd .Net</a> 👋</h1>
-    <table>
-        <tr>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/99221e0a-0d5b-42cd-a1a7-f260a3e7fb7a" style="border-radius: 50%;" /></td>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/b7357ac2-2f80-4fc3-9c8d-b896ba93bc51" style="border-radius: 50%;" /></td>
-        </tr>
-    </table>
-</div>
 
 <div align="center">
     <h1 align="center">Hola, soy<a href="https://www.tiktok.com/@josedavd_07"> Josedavd .Net</a> 👋</h1>
@@ -88,32 +69,4 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 
 <p align="left">Hello World!!</p>
 
-###
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ahgyqxhawhatwrmwvb5wzfrhfi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahgyqxhawhatwrmwvb5wzfrhfi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="image](https://github.com/josedavd-07/josedavd-07/assets/134252125/8e415c6f-ae32-4cdc-b3d9-c72ab7f4e9f
-"  />
-</div>
-
-###
-
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-</div>
-
-###
