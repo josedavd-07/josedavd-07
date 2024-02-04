@@ -30,6 +30,14 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 - Con capacidad de adaptabilidad y trabajo en equipo.⭐ 
 - Responsable.⭐
 
+## Redes 📲
+<div align="left">
+  <img src="https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://twitter.com/JOSEDAVD_07" width="52" height="40" alt="twitter logo"  />
+  <img src="https://discord.com/channels/@me" width="52" height="40" alt="discord logo"  />
+  <img src="https://www.youtube.com/channel/UCPHOiWyl5CrjNqHhTR5cy5w" width="52" height="40" alt="youtube logo"  />
+</div>
+
 ## Tecnologías 🛠️
 
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
