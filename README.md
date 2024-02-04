@@ -79,13 +79,14 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="image](https://github.com/josedavd-07/josedavd-07/assets/134252125/8e415c6f-ae32-4cdc-b3d9-c72ab7f4e9f
+"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<div align="right">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
 </div>
 
 ###
