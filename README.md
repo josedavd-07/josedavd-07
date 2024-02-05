@@ -56,19 +56,11 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
   <a href="32438892923" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="jdcarranzaa@unadvirtul.edu.co" target="_blank">
+  <a href="https://outlook.office.com/mail/?actSwt=true" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
+      
   </a>
-</div>
-
-###
-<div align="left">
-  <img src="https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://twitter.com/JOSEDAVD_07" width="52" height="40" alt="twitter logo"  />
-  <img src="https://discord.com/channels/@me" width="52" height="40" alt="discord logo"  />
-  <img src="https://www.youtube.com/channel/UCPHOiWyl5CrjNqHhTR5cy5w" width="52" height="40" alt="youtube logo"  />
-</div>
-
+  
 ## Tecnologías 🛠️
 
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
