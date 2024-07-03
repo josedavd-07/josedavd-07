@@ -15,10 +15,10 @@
     <table>
         <tr>
             <td>
-                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c" width="130px"/>
+                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c"/>
             </td>
             <td>
-                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" height="100px"/>
+                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda"/>
             <td>
         </tr>
     </table>
