@@ -9,11 +9,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+I'm+Jose+David+Carranza+A.;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Student+of+Systems+Engineering.;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+passionate+about+technology;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+and+innovation." alt="Typing SVG" /></a>
     <!-- segunda linea gradiente horizontal -->
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    
+<!-- My images -->    
 </div>
     <table>
         <tr>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c"/></td>
-            <td><img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda"/></td>
+            <td>
+                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c" width="130px"/>
+            </td>
+            <td>
+                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" height="100px"/>
+            <td>
         </tr>
     </table>
 </div>
