@@ -99,3 +99,11 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 </a>
 </p>
 </div>
+
+
+
+
+| Imagen 1 | Imagen 2 |
+|:--------:|:--------:|
+| <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" width="200"/> | <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c" width="200"/> |
+
