@@ -12,7 +12,7 @@
     
 <!-- My images -->    
 </div>
-                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" withd="130" height="130"/>
+                <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" withd="140" height="130"/>
                 <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/753a80f3-47e6-4ee7-8e7e-57110088772c" withd="130" height="130"/>
 </div>
 
