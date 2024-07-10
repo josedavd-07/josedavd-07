@@ -82,6 +82,3 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 </a>
 </p>
 </div>
-<img src="https://raw.githubusercontent.com/josedavd-07/josedavd-07/output/snake.svg" alt="Snake animation" />
-
-###
