@@ -1,6 +1,6 @@
 <!-- Readme de Jose David Carranza Angarita -->
 <div align="center">
-    <h1 align="center">Hola, soy<a href="https://www.facebook.com/josedavid.carranzaangarita/" target="_blank"> Josedavd .Net</a> 👋</h1>
+    <h1 align="center">Hola, soy<a href="https://josedavd-07.github.io/My-blog-about-my-story-life/" target="_blank"> Josedavd .Net</a> 👋</h1>
     <!-- parte de estilo animado de mi readme -->
 <div aling="center">
     <!-- primera imagen de la linea gradiente horizontal -->
