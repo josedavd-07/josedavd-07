@@ -89,7 +89,6 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
     <h1 align="center" , style="font-family: 'Courier New', Courier, monospace;">
         Hello, I'm <a href="https://www.facebook.com/josedavid.carranzaangarita/" target="_blank">Josedavd .Net</a> 👋
     </h1>
-    <hr style="color: sandybrown;">
     <div align="center">
         <!-- primera imagen de la linea gradiente horizontal -->
         <img align="center"
