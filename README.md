@@ -16,9 +16,7 @@
         </a>
         <!-- Segunda linea de la gradiente horizontal -->
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    </div>
-</div>
-    
+    </div>    
 <!-- My images -->    
 </div>
                 <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/3b26b98f-18dd-4f60-a1ae-9876be859eda" withd="130" height="130"/>
