@@ -78,3 +78,27 @@ Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la mú
 </a>
 </p>
 </div>
+
+
+
+
+
+<!-- README de Jose David Carranza Anagarita -->
+<div style="align-content: center;">
+    <!-- Contenido del README de Jose David Carranza Angarita -->
+    <h1 align="center" , style="font-family: 'Courier New', Courier, monospace;">
+        Hello, I'm <a href="https://www.facebook.com/josedavid.carranzaangarita/" target="_blank">Josedavd .Net</a> 👋
+    </h1>
+    <hr style="color: sandybrown;">
+    <div align="center">
+        <!-- primera imagen de la linea gradiente horizontal -->
+        <img align="center"
+        src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        <!-- Texto escrito que se muestra en el gif del readme -->
+        <a href="https://git.io/typing-svg">
+            <img style="font-family: 'Courier New', Courier, monospace;"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+I'm+Jose+David+Carranza+A.;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Student+of+Systems+Engineering.;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+passionate+about+technology;%F0%9F%98%80%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+and+innovation."
+            alt="Typing SVG"/>
+        </a>
+    </div>
+</div>
