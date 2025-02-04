@@ -24,7 +24,7 @@
         <!-- Mi descripción -->
         <div align="left">
             <p style="font-family: 'Courier New', Courier, monospace;">
-                ¡Hola a todos, bienvenidos! Mi nombre es José David Carranza Angarita. Soy estudiante de Ingeniería de Sistemas, apasionado por la Tecnología y la Innovación. 😀
+                ¡Hola a todos, bienvenidos! Mi nombre es José David Carranza Angarita. Soy estudiante de Ingeniería de Sistemas, y desarrollador de videohuegos. Apasionado por la Tecnología y la Innovación. 😀
                 <br>
                 Me gusta estar en constante aprendizaje y capacitarme cada día, me gusta la música y lo que más amo en la vida es programar.
                 <br>
