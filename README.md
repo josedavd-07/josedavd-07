@@ -2,7 +2,7 @@
 <div style="align-content: center;">
     <!-- Contenido del README de Jose David Carranza Angarita -->
     <h1 align="center" , style="font-family: 'Courier New', Courier, monospace;">
-        Hello, I'm <a href="https://josedavd-07.github.io/My-blog-about-my-story-life/" target="_blank">Josedavd .Net</a> 👋
+        Hello, I'm <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">Josedavd .Net</a> 👋
     </h1>
     <div align="center">
         <!-- primera imagen de la linea gradiente horizontal -->
