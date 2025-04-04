@@ -96,34 +96,35 @@
 
 
 
-
-
 <!-- README de Jose David Carranza Angarita -->
+
+<!-- Importar fuente retro estilo videojuego -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
 <div align="center">
-    <h1 style="font-family: 'Press Start 2P', cursive;">
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
         Hello, I'm <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">Josedavd .Net</a> 👾
     </h1>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <a href="https://git.io/typing-svg">
-        <img style="font-family: 'Press Start 2P', cursive;"
-        src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%9A%80+Passionate+about+Technology+and+Innovation;%E2%9C%A8+Creating+Immersive+Experiences"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%9A%80+Passionate+about+Technology+and+Innovation;%E2%9C%A8+Creating+Immersive+Experiences"/>
     </a>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 🎮 Sobre Mí
 
-Soy **José David Carranza Angarita**, desarrollador de videojuegos y estudiante de Ingeniería de Sistemas. Apasionado por la creación de experiencias interactivas, la innovación y la tecnología.
+Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos y estudiante de Ingeniería de Sistemas. Apasionado por la creación de experiencias interactivas, la innovación y la tecnología.
 
-💡 "Si puedes imaginarlo, puedes programarlo."
+💡 <em>"Si puedes imaginarlo, puedes programarlo."</em>
 
 ## 🚀 Habilidades
 
-- Desarrollo en **C#** con **Unity** 🕹️
-- Programación Orientada a Objetos 💻
-- Desarrollo en **.NET Core** ⚙️
-- Diseño y lógica de videojuegos 🎨
-- Uso de **Git y GitHub** para control de versiones 🔄
+- Desarrollo en <strong>C#</strong> con <strong>Unity</strong> 🕹️  
+- Programación Orientada a Objetos 💻  
+- Desarrollo en <strong>.NET Core</strong> ⚙️  
+- Diseño y lógica de videojuegos 🎨  
+- Uso de <strong>Git y GitHub</strong> para control de versiones 🔄  
 
 ## 🛠️ Tecnologías
 
@@ -152,8 +153,3 @@ Soy **José David Carranza Angarita**, desarrollador de videojuegos y estudiante
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-</style>
-
