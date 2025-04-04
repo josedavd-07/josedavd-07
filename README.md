@@ -67,34 +67,40 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 </p>
 
 
-# 🎮 Hello, I'm [Josedavd .Net](https://jose-david-carranza-unity-developer.netlify.app/) 👾
 
-![pixel gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=00FFCC&width=435&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%9A%80+Passionate+about+Technology+and+Innovation;%E2%9C%A8+Creating+Immersive+Experiences)
-
----
-
-## 🎮 Sobre Mí
-
-Soy **José David Carranza Angarita**, desarrollador de videojuegos y estudiante de Ingeniería de Sistemas.  
-Apasionado por la creación de experiencias interactivas, la innovación y la tecnología.
-
-💡 *"Si puedes imaginarlo, puedes programarlo."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=800&color=00FFD9&center=true&vCenter=true&width=700&lines=👾+HI%2C+I'M+JOSE+DAVID;🎮+GAME+DEVELOPER+%7C+.NET+%7C+UNITY;🌌+BUILDING+IMMERSIVE+WORLDS" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Habilidades
-
-- 🕹️ Desarrollo en **C#** con **Unity**
-- 💻 Programación Orientada a Objetos
-- ⚙️ Desarrollo en **.NET Core**
-- 🎨 Diseño y lógica de videojuegos
-- 🔄 Uso de **Git** y **GitHub** para control de versiones
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🧠 SOBRE MÍ
+
+🎮 **Nombre:** José David Carranza Angarita  
+🖥️ **Rol:** Desarrollador de videojuegos | .NET Developer  
+🚀 **Pasión:** Crear experiencias inmersivas e interactivas  
+💬 *"Si puedes imaginarlo, puedes programarlo."*
+
+---
+
+## 💻 HABILIDADES
+
+- 🕹️ C# con Unity
+- ⚙️ Desarrollo con .NET Core
+- 💡 Programación Orientada a Objetos
+- 🎨 Lógica y diseño de videojuegos
+- 🔄 Git y GitHub para control de versiones
+
+---
+
+## ⚒️ TECNOLOGÍAS
 
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white)
@@ -102,12 +108,12 @@ Apasionado por la creación de experiencias interactivas, la innovación y la te
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 REDES SOCIALES
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/)
 [![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/JOSEDAVD_07)
@@ -117,10 +123,8 @@ Apasionado por la creación de experiencias interactivas, la innovación y la te
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ESTADÍSTICAS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josedavd-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact
