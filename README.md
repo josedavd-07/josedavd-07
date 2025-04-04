@@ -94,8 +94,6 @@
 
 
 
-
-
 <!-- README de Jose David Carranza Angarita -->
 
 <!-- Importar fuente retro estilo videojuego -->
@@ -139,11 +137,21 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 
 ## 🌐 Redes Sociales
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/)  
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/JOSEDAVD_07)  
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/channels/1034482670937325689/1042895993517125762)  
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/channel/UCPHOiWyl5CrjNqHhTR5cy5w)  
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/josedavd_07/)  
+<a href="https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/JOSEDAVD_07">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter"/>
+</a>
+<a href="https://discord.com/channels/1034482670937325689/1042895993517125762">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/>
+</a>
+<a href="https://www.youtube.com/channel/UCPHOiWyl5CrjNqHhTR5cy5w">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/josedavd_07/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
+</a>
 
 ## 📊 GitHub Stats
 
