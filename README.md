@@ -93,7 +93,6 @@
 
 
 
-
 <!-- README de Jose David Carranza Angarita -->
 
 <!-- Importar fuente retro estilo videojuego -->
@@ -103,10 +102,13 @@
     <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
         Hello, I'm <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">Josedavd .Net</a> 👾
     </h1>
+
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%9A%80+Passionate+about+Technology+and+Innovation;%E2%9C%A8+Creating+Immersive+Experiences"/>
     </a>
+
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -138,19 +140,19 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 ## 🌐 Redes Sociales
 
 <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-24a902209/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="64" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/JOSEDAVD_07">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="64" alt="Twitter"/>
 </a>
 <a href="https://discord.com/channels/1034482670937325689/1042895993517125762">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="64" height="64" alt="Discord"/>
 </a>
 <a href="https://www.youtube.com/channel/UCPHOiWyl5CrjNqHhTR5cy5w">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="64" alt="YouTube"/>
 </a>
 <a href="https://www.instagram.com/josedavd_07/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="64" alt="Instagram"/>
 </a>
 
 ## 📊 GitHub Stats
