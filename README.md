@@ -24,7 +24,6 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 
 - Desarrollo en <strong>C#</strong> con <strong>Unity</strong> 🕹️  
 - Programación Orientada a Objetos 💻  
-- Desarrollo en <strong>.NET Core</strong> ⚙️  
 - Diseño y lógica de videojuegos 🎨  
 - Uso de <strong>Git y GitHub</strong> para control de versiones 🔄  
 
