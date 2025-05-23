@@ -21,16 +21,11 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    string fullName = "José David Carranza Angarita";
+    string message = """
+        >> "El mundo siempre necesita desarrolladores que crean algo más que juegos."
 
-    string aboutMe = """
-     >> Desarrollador de videojuegos.
-     >> Estudiante de Ingeniería de Sistemas.
-     >> 'El mundo siempre necesita desarrolladores que crean algo más que juegos.'
-
-     >> Game Programmer
-     >> 'El mundo siempre necesita héroes.' — Overwatch
-     """;
+        >> "El mundo siempre necesita héroes." — Overwatch
+        """;
 
     void Start() 
     {
