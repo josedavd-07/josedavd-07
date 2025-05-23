@@ -28,20 +28,13 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 - Uso de <strong>Git y GitHub</strong> para control de versiones 🔄  
 
 ## 🛠️ Tecnologías
-
-## 🧠 Idiomas y Marcos  
-### Mis Habilidades
-
+ 
 [![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,react,nodejs&theme=dark)](https://skillicons.dev)
 
----
-
 ## 🛠️ IDE y Herramientas  
-### Mis Habilidades
 
 [![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
 
----
 
 ```csharp
 using UnityEngine;
@@ -54,6 +47,7 @@ public class PlayerController : MonoBehaviour
     }
 }
 
+```
 
 ## 🌐 Redes Sociales
 
