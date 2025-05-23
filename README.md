@@ -23,11 +23,14 @@ public class PlayerController : MonoBehaviour
 {
     string fullName = "José David Carranza Angarita";
 
-    string aboutMe = """Desarrollador de videojuegos
-     Estudiante de Ingeniería de Sistemas.
-     Apasionado por crear experiencias interactivas, innovación y tecnología.
+    string aboutMe = """
+     >> Desarrollador de videojuegos
+     >> Estudiante de Ingeniería de Sistemas.
+     >> 'El mundo siempre necesita desarrolladores que crean algo más que juegos.'
      
-     Game Programmer""";
+     >> Game Programmer
+     >> 'El mundo siempre necesita héroes.' — Overwatch
+     """;
 
     void Start() 
     {
