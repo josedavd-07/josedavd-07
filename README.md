@@ -1,31 +1,40 @@
 <!-- README de Jose David Carranza Angarita -->
 
 <!-- Importar fuente retro estilo videojuego -->
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
 <div align="center">
-    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
-        Hello, I'm <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">Josedavd .Net</a> 👾
-    </h1>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%9A%80+Passionate+about+Technology+and+Innovation;%E2%9C%A8+Creating+Immersive+Experiences"/>
-    </a>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
+    Hello, I'm 
+    <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">
+      JosedadvMast3r
+    </a> 👾
+  </h1>
+
+<!-- 
+  <img src="_BannerItchio.gif" alt="banner" width="400" style="margin-top: 10px;" /> -->
+
+  <img src="_BannerItchio.gif" alt="banner" style="width: auto; margin-top: 10px;" />
+
 </div>
 
-## 🎮 Sobre Mí
+```csharp
+using UnityEngine;
 
-Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos y estudiante de Ingeniería de Sistemas. Apasionado por la creación de experiencias interactivas, la innovación y la tecnología.
+public class PlayerController : MonoBehaviour
+{
+    string fullName = "José David Carranza Angarita";
 
-💡 <em>"Si puedes imaginarlo, puedes programarlo."</em>
+    string aboutMe = """Desarrollador de videojuegos
+     Estudiante de Ingeniería de Sistemas.
+     Apasionado por crear experiencias interactivas, innovación y tecnología.
+     
+     Game Programmer""";
 
-## 🚀 Habilidades
-
-- Desarrollo en <strong>C#</strong> con <strong>Unity</strong> 🕹️  
-- Programación Orientada a Objetos 💻  
-- Diseño y lógica de videojuegos 🎨  
-- Uso de <strong>Git y GitHub</strong> para control de versiones 🔄  
+    void Start() 
+    {
+        Debug.Log("Developer mode on");
+    }
+}
+```
 
 ## 🛠️ Tecnologías
  
@@ -35,19 +44,6 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 
 [![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
 
-
-```csharp
-using UnityEngine;
-
-public class PlayerController : MonoBehaviour
-{
-    void Start() 
-    {
-        Debug.Log("Developer mode on");
-    }
-}
-
-```
 
 ## 🌐 Redes Sociales
 
