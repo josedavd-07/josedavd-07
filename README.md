@@ -64,6 +64,31 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+## 🧠 Idiomas y Marcos  
+### Mis Habilidades
+
+[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,java,spring,html,css,js,react,nodejs&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🛠️ IDE y Herramientas  
+### Mis Habilidades
+
+[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
+
+---
+
+```csharp
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    void Start() 
+    {
+        Debug.Log("Developer mode on");
+    }
+}
+
 
 
 
