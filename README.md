@@ -29,14 +29,31 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
 
 ## 🛠️ Tecnologías
 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+## 🧠 Idiomas y Marcos  
+### Mis Habilidades
+
+[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,react,nodejs&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🛠️ IDE y Herramientas  
+### Mis Habilidades
+
+[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
+
+---
+
+```csharp
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    void Start() 
+    {
+        Debug.Log("Developer mode on");
+    }
+}
+
 
 ## 🌐 Redes Sociales
 
@@ -64,31 +81,3 @@ Soy <strong>José David Carranza Angarita</strong>, desarrollador de videojuegos
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-## 🧠 Idiomas y Marcos  
-### Mis Habilidades
-
-[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,java,spring,html,css,js,react,nodejs&theme=dark)](https://skillicons.dev)
-
----
-
-## 🛠️ IDE y Herramientas  
-### Mis Habilidades
-
-[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
-
----
-
-```csharp
-using UnityEngine;
-
-public class PlayerController : MonoBehaviour
-{
-    void Start() 
-    {
-        Debug.Log("Developer mode on");
-    }
-}
-
-
-
-
