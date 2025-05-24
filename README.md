@@ -36,6 +36,13 @@ public class PlayerController : MonoBehaviour
 
 [![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
 
+### Sigueme
+
+[![YouTube](https://img.shields.io/badge/YouTube-JoseDavidCarranzaAngarita-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo)
+
+[![Discord](https://img.shields.io/badge/Discord-JoseDavidCarranzaAngarita-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/channels/@me)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoseDavidCarranzaAngarita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/)
 
 ### 📊 GitHub Stats
 
