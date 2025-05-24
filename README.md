@@ -9,9 +9,6 @@
     </a> 👾
   </h1>
 
-<!-- 
-  <img src="_BannerItchio.gif" alt="banner" width="400" style="margin-top: 10px;" /> -->
-
   <img src="_BannerItchio.gif" alt="banner" style="width: auto; margin-top: 10px;" />
 
 </div>
@@ -48,3 +45,8 @@ public class PlayerController : MonoBehaviour
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedavd-07&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<!-- Importar fuente retro estilo videojuego -->
+<div align="center">
+  <img src="_BannerItchio.gif" alt="banner" style="width: auto; margin-top: 10px;" />
+</div>
