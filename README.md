@@ -5,7 +5,7 @@
   <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
     Hello, I'm 
     <a href="https://jose-david-carranza-unity-developer.netlify.app/" target="_blank">
-      JosedadvMast3r
+      JosedavdMast3r
     </a> 👾
   </h1>
 
