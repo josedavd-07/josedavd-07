@@ -30,19 +30,33 @@ public class PlayerController : MonoBehaviour
 
 ### 🛠️ Tecnologías
 
-[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,react,nodejs&theme=dark)](https://skillicons.dev)
+[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,react,nodejs,vite,lua&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ IDE y Herramientas  
 
-[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github&theme=dark)](https://skillicons.dev)
+[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,rider,git,github&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Sistemas
+
+[![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,mint&theme=dark)](https://skillicons.dev)
 
 ### Sigueme
 
-[![YouTube](https://img.shields.io/badge/YouTube-JoseDavidCarranzaAngarita-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo)
+<!-- [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/channels/@me)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/) -->
 
-[![Discord](https://img.shields.io/badge/Discord-JoseDavidCarranzaAngarita-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/channels/@me)
+<p align="left">
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="46" height="64" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="64" alt="LinkedIn">
+  </a>
+  <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
+    <img src="Youtube.png" width="68" height="70" alt="YouTube">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoseDavidCarranzaAngarita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/)
 
 ### 📊 GitHub Stats
 
