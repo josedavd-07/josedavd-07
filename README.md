@@ -21,15 +21,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    string message = """
-        >> "El mundo siempre necesita desarrolladores que crean algo más que juegos."
-
-        >> "El mundo siempre necesita héroes." — Overwatch
-        """;
+    string message = ">> \"El mundo siempre necesita héroes.\" — Overwatch";
 
     void Start() 
     {
-        Debug.Log("Developer mode on");
+      Debug.Log("Developer mode on");
+      Debug.Log(message);
     }
 }
 ```
