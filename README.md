@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
 
 ### 🛠️ IDE y Herramientas  
 
-[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,rider,git,github&theme=dark)](https://skillicons.dev)
+[![IDE y Herramientas](https://skillicons.dev/icons?i=unity,visualstudio,vscode,pycharm,idea,rider,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Sistemas
 
