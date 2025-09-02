@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
 
 ### 🛠️ Tecnologías
 
-[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,react,nodejs,vite,lua&theme=dark)](https://skillicons.dev)
+[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=cs,python,dotnet,java,spring,html,css,js,react,nodejs,vite,lua&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ IDE y Herramientas  
 
