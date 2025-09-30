@@ -40,25 +40,11 @@ public class PlayerController : MonoBehaviour
 
 [![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,mint&theme=dark)](https://skillicons.dev)
 
-### Sigueme
+
+### Sígueme  
 
 <!-- [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/channels/@me)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/) -->
-
-<p align="left">
-  <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="46" height="64" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="64" alt="LinkedIn">
-  </a>
-  <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
-    <img src="Youtube.png" width="68" height="70" alt="YouTube">
-  </a>
-</p>
-
-
-### Sígueme  
 
 <table>
   <tr>
@@ -77,33 +63,6 @@ public class PlayerController : MonoBehaviour
     <td align="center">
       <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
         <img src="Youtube.png" width="68" height="70" alt="YouTube"><br>
-        YouTube
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-### Sígueme  ssssssssssssss
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://discord.com/channels/@me">
-        <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="60" height="60" alt="Discord"><br>
-        Discord
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" height="60" alt="LinkedIn"><br>
-        LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
-        <img src="Youtube.png" width="60" height="60" alt="YouTube"><br>
         YouTube
       </a>
     </td>
