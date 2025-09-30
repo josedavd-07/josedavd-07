@@ -58,6 +58,32 @@ public class PlayerController : MonoBehaviour
 </p>
 
 
+### Sígueme  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/channels/@me">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="46" height="64" alt="Discord"><br>
+        Discord
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="64" alt="LinkedIn"><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
+        <img src="Youtube.png" width="68" height="70" alt="YouTube"><br>
+        YouTube
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
