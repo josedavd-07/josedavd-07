@@ -61,7 +61,7 @@ public class PlayerController : MonoBehaviour
       </a>
     </td>
     <td align="center">
-      <a href="[https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo](https://www.youtube.com/@Josedavd_SystemEngineer)">
+      <a href="https://youtube.com/@josedavidcarranzaangarita?si=DT2QzBvZP6IB1IRo">
         <img src="Youtube.png" width="68" height="70" alt="YouTube"><br>
         YouTube
       </a>
